@@ -1,0 +1,12 @@
+# Compiled source files
+*.o
+*.exe
+
+# Code::Blocks files
+*.cbp
+*.layout
+*.depend
+
+# Microsoft Office files
+*.docx
+*.vsdx
